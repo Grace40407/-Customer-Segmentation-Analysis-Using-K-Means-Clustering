@@ -1,0 +1,26 @@
+Description: This project analyzes customer purchase behavior to group them into distinct segments using K-Means clustering. The goal is to uncover patterns for targeted marketing strategies.
+
+Objectives of the Project
+Perform exploratory data analysis (EDA) on customer transaction data.
+
+Apply K-Means clustering to identify customer segments.
+
+Visualize clusters and interpret their characteristics.
+
+Provide actionable business insights for personalized marketing.
+
+Tools and Libraries Used
+Programming Language: Python 3.9+
+
+Libraries:
+
+Pandas (data manipulation)
+
+NumPy (numerical operations)
+
+Matplotlib/Seaborn (visualization)
+
+Scikit-learn (K-Means, StandardScaler, silhouette_score)
+
+Jupyter Notebook (interactive development)
+
