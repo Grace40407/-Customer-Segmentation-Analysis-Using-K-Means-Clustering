@@ -1,0 +1,2 @@
+pip install -r requirements.txt  # Create this file with pandas, numpy, matplotlib, seaborn, scikit-learn, jupyter  
+jupyter notebook customer_segmentation_analysis.ipynb  
